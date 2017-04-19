@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AnamicaKartik</string>
+    <string-array name="questions">
+        <item>Who is the Prime Minister of Canada?|Modi|Obama|Trudeau|Trudeau</item>
+        <item>What is Deer\'s child called?|Fawn|Cub|Kid|Fawn</item>
+        <item>Where is Tajmahal located?|Delhi|Agra|Bombay|Agra</item>
+        <item>What is the capital of Canada?|Vancouver|Calgary|Ottawa|Ottawa</item>
+        <item>What is Android\'s latest release is called?|Jellybean|Ice-cream|Marshmallow|Marshmallow</item>
+    </string-array>
+</resources>
